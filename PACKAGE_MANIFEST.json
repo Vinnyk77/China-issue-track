@@ -1,0 +1,73 @@
+{
+  "package": "CPEL_Development_Kit",
+  "version": "3.0",
+  "created_date": "2026-10-22",
+  "artifact_kind": "planning_and_prompts_only",
+  "files": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 3287,
+      "sha256": "b4f553ee837f00d53920898bc317e6dd197ead681fef873d2b4f42a92119264d"
+    },
+    {
+      "path": "README_START_HERE.md",
+      "bytes": 4063,
+      "sha256": "f74bd3560ec79c47ec20b6fe3fe97833b1ea3f69142588d0c06c179bccc5029e"
+    },
+    {
+      "path": "docs/01_PRODUCT_SPEC.md",
+      "bytes": 8397,
+      "sha256": "d779f30136ee57842c1b538f8d37e6fee6bd9d21ee00e5f31100720fc22d8571"
+    },
+    {
+      "path": "docs/02_TECHNICAL_SPEC.md",
+      "bytes": 18095,
+      "sha256": "a26f32bd73343dab9dfa950a74176f5c34659c57a4638937e09f7c7848f17120"
+    },
+    {
+      "path": "docs/03_IMPLEMENTATION_PLAN.md",
+      "bytes": 7153,
+      "sha256": "1ff53dec60c46b931cf452237d3b0576d9335efebf3145ef9da73c8caaf93e55"
+    },
+    {
+      "path": "docs/04_ACCEPTANCE_TESTS.md",
+      "bytes": 4917,
+      "sha256": "0e752c4ab1ed6277098c5073c0821b3a4fb28f2c505dfc81914f21fc4b047135"
+    },
+    {
+      "path": "docs/05_PROVIDER_AND_OPERATIONS.md",
+      "bytes": 6364,
+      "sha256": "65f89b8d1b00e21ab5dd014909f4d192035ddcd11e58fdf7819aaa6a0f2d6422"
+    },
+    {
+      "path": "docs/06_IMPORT_AND_FIXTURE_CONTRACT.md",
+      "bytes": 5001,
+      "sha256": "e6fe9b541d33d7b559a4515f9afc9e383472f549d14ed4ff4d72f13643dea5f7"
+    },
+    {
+      "path": "docs/07_AGENT_STATE_TEMPLATE.md",
+      "bytes": 1252,
+      "sha256": "d1c9bad8e00eb14e7b15f284298cc91186569550a72b8ebee597051de815c9fa"
+    },
+    {
+      "path": "prompts/00_START.md",
+      "bytes": 3603,
+      "sha256": "53e8bcbcef0026fbcf7b7b89df483d7c0cf9762127fe1b3b2add90f18532b923"
+    },
+    {
+      "path": "prompts/01_RESUME.md",
+      "bytes": 1184,
+      "sha256": "8c9630fb2207eea429664bf3c8d422456d163514c35ca6c4face23c4593f1384"
+    },
+    {
+      "path": "prompts/02_LIVE_INTEGRATION.md",
+      "bytes": 1770,
+      "sha256": "ed8f172e650b68a7111ac42c876eaa2744e92daf5f2dac8348ad96a79f3f89fe"
+    },
+    {
+      "path": "prompts/03_ACCEPTANCE.md",
+      "bytes": 1382,
+      "sha256": "0a295040bebac33a1c7877724f9f6b07a47f989c244cba0859880848f910b68f"
+    }
+  ]
+}
